@@ -8,8 +8,8 @@ const config = {
   siteDescription: "the official website of Griffith [Henry] Knoop [IV]", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteRssTitle: "gknoop.com RSS feed", // Title of the RSS feed
-  //siteFBAppID: "1825356251115265", // FB Application ID for using app insights
-  //googleAnalyticsID: "UA-47311644-5", // GA tracking ID.
+  // siteFBAppID: "1825356251115265", // FB Application ID for using app insights
+  // googleAnalyticsID: "UA-47311644-5", // GA tracking ID.
   disqusShortname: "https-gknoop", // Disqus shortname.
   dateFromFormat: "YYYY-MM-DD", // Date format used in the frontmatter.
   dateFormat: "DD/MM/YYYY", // Date format for display.
