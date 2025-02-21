@@ -24,5 +24,4 @@ dist-ssr
 *.sw?
 
 # Default project files
-App.css
-App.tsx
+deprecated/*
