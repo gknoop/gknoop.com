@@ -3,7 +3,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 // components takes precedence over default styles.
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import './index.css'
+import 'bootstrap/dist/css/bootstrap.css'
 import Header from './components/Header.tsx'
 import Content from './components/Content.tsx'
 import Footer from './components/Footer.tsx'
