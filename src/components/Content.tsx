@@ -1,6 +1,6 @@
 export default function Content() {
 	return (
-		<main>
+		<main className="container-fluid p-5 bg-primary text-white text-center">
 			<h1>This has to be</h1>
 			<p>The ugliest thing I've ever seen</p>
 			<p><small>despite my best intentions</small></p>
