@@ -2,7 +2,7 @@ export default function Header() {
 	return (
 		<header>
 			{/* navbar */}
-			<nav className="navbar navbar-expand-sm navbar-light bg-light justify-content-center">
+			<nav className="navbar navbar-expand-sm navbar-light bg-primary justify-content-center">
 				<ul className="navbar-nav mr-auto">
 					{/* logo */}
 					<a className="navbar-brand">

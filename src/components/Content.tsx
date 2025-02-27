@@ -1,6 +1,6 @@
 export default function Content() {
 	return (
-		<main className="container-fluid p-5 bg-primary text-white">
+		<main className="container-fluid p-5">
 			<div className="row">
 				<div className="col">
 					<h1>welcome.</h1>
